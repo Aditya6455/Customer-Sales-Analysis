@@ -32,22 +32,6 @@ Build a data-driven solution to:
 - Enable self-service business reporting
 
 ---
-### Sample Visuals📷
-
-Sales Trend
-Revenue
-│
-│        ╭───╮
-│    ╭───╯   ╰──╮
-│╭───╯          ╰───
-└────────────────────
-      Months
-Regional Sales Distribution
-West      ████████████
-South     █████████
-Midwest   ██████
-Northeast ████
-
 # 🛠️ Tools & Technologies
 
 | Tool | Purpose |
